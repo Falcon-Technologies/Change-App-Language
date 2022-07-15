@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Localization</string>
+    <string name="search">تلاش کریں۔</string>
+    <string name="change">تبدیلی</string>
+    <string name="cancel">منسوخ کریں۔</string>
+    <string name="select_language">زبان منتخب کریں۔</string>
+    <string name="sure_to_change_app_language">ایپ کی زبان تبدیل کرنا یقینی ہے؟</string>
+
+</resources>

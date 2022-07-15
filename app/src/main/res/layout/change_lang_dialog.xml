@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/dialog_background"
+    android:padding="@dimen/_16sdp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/change_lang_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/sure_to_change_app_language"
+            android:textSize="@dimen/_14ssp"
+            app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/change"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_22sdp"
+            android:fontFamily="sans-serif-medium"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/change"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_14ssp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/change_lang_heading" />
+
+        <TextView
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:fontFamily="sans-serif-medium"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/cancel"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_14ssp"
+            app:cornerRadius="@dimen/_6sdp"
+            app:layout_constraintBottom_toBottomOf="@+id/change"
+            app:layout_constraintEnd_toStartOf="@+id/change"
+            app:layout_constraintTop_toTopOf="@+id/change" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

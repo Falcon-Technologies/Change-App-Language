@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Language Localization</string>
+    <string name="icon" translatable="false">Icon</string>
+    <string name="country_name" translatable="false">Pakistan</string>
+    <string name="search">Search</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_language">Select Language</string>
+    <string name="sure_to_change_app_language">Sure to change app language?</string>
+</resources>
