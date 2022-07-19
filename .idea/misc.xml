@@ -14,10 +14,12 @@
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/drawable/selected_icon.xml" value="0.2615" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/drawable/selected_lang_bg.xml" value="0.2615" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/activity_select_language_from_spinner.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/change_lang_dialog.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/item_custom_spinner.xml" value="0.365625" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/item_language_preferences.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/layout/list_setting_item_view.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hypersoft/AndroidStudioProjects/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />

@@ -16,8 +16,7 @@ import com.falcon.technologies.utils.Constants
 class LanguagePreferencesAdapter(
     private var listener: ICountryPrefListener,
     private val context: Context
-) :
-    RecyclerView.Adapter<LanguagePreferencesAdapter.LanguageViewHolder>() {
+) : RecyclerView.Adapter<LanguagePreferencesAdapter.LanguageViewHolder>() {
 
 
     var countryNamesList = mutableListOf<CountryModel>()
